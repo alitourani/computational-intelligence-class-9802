@@ -4,5 +4,11 @@ This repository contains the final projects of the course **Computational Intell
 ### Administrative
 **Instructor:** Ali Tourani ([webpage](http://alitourani.ir/ "webpage"))
 
-### Course Description:
+### Course Description
 To be defined
+
+### Prerequisites
+
+### Course Material
+
+### Evaluation
