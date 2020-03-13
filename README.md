@@ -8,7 +8,10 @@ This repository contains the final projects of the course **Computational Intell
 To be defined
 
 ### Prerequisites
+To be defined
 
 ### Course Material
+To be defined
 
 ### Evaluation
+To be defined
