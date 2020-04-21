@@ -5,8 +5,8 @@ This repository contains the final projects of the course **Computational Intell
 - **Instructor:** Ali Tourani ([webpage](http://alitourani.ir/downloadable-files/ "webpage") for slides and videos)
 - **TA:** [Reza Khan Mohammadi](https://github.com/Ledengary "Reza Khan Mohammadi")
 - **Credits:** 3
-- **Time**: Mondays, 15:30 – 17:00, 17:00 – 18:30
-- **Location**: Faculty of Engineering, classroom no.23
+- **Time**: Sundays, 15:30 – 17:00, 17:15 – 18:30
+- **Location**: Faculty of Engineering, class #15
 
 This course presents an introduction to the concepts and algorithms of Computational Intelligence. Topics covered include: soft computing, Artificial Neural Networks (ANNs), Fuzzy logic, evolutionary computing, and swarm intelligence. We will study the structure of famous CI methods, such as ant colony, genetic algorithm, perceptron network, and deep learning.
 
