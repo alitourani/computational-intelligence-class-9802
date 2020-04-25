@@ -23,7 +23,7 @@ Below is the list of projects defined for the students.
 | ------------ | ------------ | ------------ |
 | 1 |  Build your Own Neural Net from Scratch |   |
 | 2 | Gender Detection  |   |
-| 3 |  Cat vs Dogs |   |
+| 3 |  Cat vs Dogs | 9612268201, 960122681016 |
 | 4 |  Human Face Detection |   |
 | 5 | Traffic Sign Classification  |   |
 | 6 |  Age Detection |   |
