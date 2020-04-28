@@ -26,7 +26,7 @@ Below is the list of projects defined for the students.
 | 3 |  Cat vs Dogs | 9612268201, 960122681016 |
 | 4 |  Human Face Detection | 960122680078, 960122680002 |
 | 5 | Traffic Sign Classification  |   |
-| 6 |  Age Detection |   |
+| 6 |  Age Detection | 960122680028, 960122681009 |
 | 7 | Breast Cancer Classification  |   |
 | 8 | Housing Prices Prediction Project  |   |
 | 9 |  Car Prices Prediction |   |
