@@ -31,7 +31,7 @@ Below is the list of projects defined for the students.
 | 8 | Housing Prices Prediction Project  |   |
 | 9 |  Car Prices Prediction |   |
 | 10 | Driver Drowsiness Detection  |   |
-| 11 | Movie Recommender   |   |
+| 11 | Movie Recommender | 960122680042, 960122680013 |
 | 12 |  Air Pollution Level Forecasting |   |
 | 13 | Implementing tf-idf for information retrieval and finding similar texts  |   |
 | 14 |  Bone Fracture Detection from X-Ray images |   |
