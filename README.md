@@ -21,19 +21,19 @@ Below is the list of projects defined for the students.
 
 |  Group No. | Project Title  | Team Members  |
 | ------------ | ------------ | ------------ |
-| 1 |  Build your Own Neural Net from Scratch |   |
-| 2 | Gender Detection  |   |
-| 3 |  Cat vs Dogs | 9612268201, 960122681016 |
-| 4 |  Human Face Detection | 960122680078, 960122680002 |
+| 1 | Build your Own Neural Net from Scratch |   |
+| 2 | Gender Detection  | 960122680030, 960122680021, 960122681007 |
+| 3 | Cat vs Dogs | 9612268201, 960122681016 |
+| 4 | Human Face Detection | 960122680078, 960122680002 |
 | 5 | Traffic Sign Classification  |   |
-| 6 |  Age Detection | 960122680028, 960122681009 |
+| 6 | Age Detection | 960122680028, 960122681009 |
 | 7 | Breast Cancer Classification  |   |
 | 8 | Housing Prices Prediction Project  |   |
-| 9 |  Car Prices Prediction | 960122680023, 960122680024 |
+| 9 | Car Prices Prediction | 960122680023, 960122680024 |
 | 10 | Driver Drowsiness Detection  |   |
 | 11 | Movie Recommender | 960122680042, 960122680013 |
-| 12 |  Air Pollution Level Forecasting |   |
+| 12 | Air Pollution Level Forecasting |   |
 | 13 | Implementing tf-idf for information retrieval and finding similar texts  |   |
-| 14 |  Bone Fracture Detection from X-Ray images |   |
-| 15 |  Text Classification |   |
+| 14 | Bone Fracture Detection from X-Ray images |   |
+| 15 | Text Classification |   |
 
