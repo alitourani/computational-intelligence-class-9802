@@ -27,7 +27,7 @@ Below is the list of projects defined for the students.
 | 4 | Human Face Detection | 960122680078, 960122680002 |
 | 5 | Traffic Sign Classification  |   |
 | 6 | Age Detection | 960122680028, 960122681009 |
-| 7 | Breast Cancer Classification  |   |
+| 7 | Breast Cancer Type Prediction | 950122681023, 950122681005, 950122680082, 950122681018 |
 | 8 | Housing Prices Prediction Project  |   |
 | 9 | Car Prices Prediction | 960122680023, 960122680024 |
 | 10 | Driver Drowsiness Detection  |   |
