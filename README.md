@@ -29,7 +29,7 @@ Below is the list of projects defined for the students.
 | 6 | Age Detection | 960122680028, 960122681009 |
 | 7 | Breast Cancer Type Prediction | 950122681023, 950122681005, 950122680082, 950122681018 |
 | 8 | Housing Prices Prediction Project  |   |
-| 9 | Car Prices Prediction | 960122680023, 960122680024 |
+| 9 | Car Prices Prediction | 960122680023, 960122680024, 960122680043 |
 | 10 | Driver Drowsiness Detection  |   |
 | 11 | Movie Recommender | 960122680042, 960122680013 |
 | 12 | Air Pollution Level Forecasting |   |
