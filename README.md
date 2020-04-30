@@ -34,6 +34,6 @@ Below is the list of projects defined for the students.
 | 11 | Movie Recommender | 960122680042, 960122680013 |
 | 12 | Air Pollution Level Forecasting |   |
 | 13 | Implementing tf-idf for information retrieval and finding similar texts  |   |
-| 14 | Bone Fracture Detection from X-Ray images | 960122680032, 960122680083 |
+| 14 | Bone Fracture Detection from X-Ray images | 960122680032, 960122680083, 960122680119 |
 | 15 | Text Classification |   |
 
