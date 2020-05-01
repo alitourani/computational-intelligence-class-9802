@@ -21,7 +21,7 @@ Below is the list of projects defined for the students.
 
 |  Group No. | Project Title  | Team Members  |
 | ------------ | ------------ | ------------ |
-| 1 | Vehicle Type Classification |   |
+| 1 | Vehicle Type Classification | 960122680018, 960122681002, 960122680005 |
 | 2 | Gender Detection  | 960122680030, 960122680021, 960122681007 |
 | 3 | Cat vs Dogs | 9612268201, 960122681016 |
 | 4 | Human Face Detection | 960122680078, 960122680002 |
