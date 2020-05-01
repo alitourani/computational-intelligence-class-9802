@@ -25,7 +25,7 @@ Below is the list of projects defined for the students.
 | 2 | Gender Detection  | 960122680030, 960122680021, 960122681007 |
 | 3 | Cat vs Dogs | 9612268201, 960122681016 |
 | 4 | Human Face Detection | 960122680078, 960122680002 |
-| 5 | Traffic Sign Classification  |   |
+| 5 | Traffic Sign Classification | 960122680009, 960122681013, 960122680046 |
 | 6 | Age Detection | 960122680028, 960122681009 |
 | 7 | Breast Cancer Type Prediction | 950122681023, 950122681005, 950122680082, 950122681018 |
 | 8 | Housing Prices Prediction Project | 960201111044, 95122615001, 950122681017 |
