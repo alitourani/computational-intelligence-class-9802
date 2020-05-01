@@ -38,5 +38,5 @@ Below is the list of projects defined for the students.
 | 15 | Text Classification |   |
 | 16 | Traffic Flow Estimation |   |
 | 17 | Bitcoin Price Prediction |   |
-| 18 | COVID-19 Spread Prediction |   |
+| 18 | COVID-19 Spread Prediction | 960122680010, 960122680006 |
 
