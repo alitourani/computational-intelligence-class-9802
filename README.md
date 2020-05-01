@@ -35,7 +35,7 @@ Below is the list of projects defined for the students.
 | 12 | Air Pollution Level Forecasting |   |
 | 13 | Stock Price Prediction  |   |
 | 14 | Bone Fracture Detection from X-Ray images | 960122680032, 960122680083, 960122680119 |
-| 15 | Text Classification |   |
+| 15 | Text Classification | 950122680005, 9612268105 |
 | 16 | Traffic Flow Estimation |   |
 | 17 | Bitcoin Price Prediction |   |
 | 18 | COVID-19 Spread Prediction | 960122680010, 960122680006 |
