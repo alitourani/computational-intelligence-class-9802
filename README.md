@@ -30,13 +30,10 @@ Below is the list of projects defined for the students.
 | 7 | Breast Cancer Type Prediction | 950122681023, 950122681005, 950122680082, 950122681018 |
 | 8 | Housing Prices Prediction Project | 960201111044, 95122615001, 950122681017 |
 | 9 | Car Prices Prediction | 960122680023, 960122680024, 960122680043 |
-| 10 | Human Pose Estimation  |   |
+| 10 | COVID-19 Spread Prediction | 960122680010, 960122680006 |
 | 11 | Movie Recommender System | 960122680042, 960122680013 |
-| 12 | Air Pollution Level Forecasting |   |
-| 13 | Stock Price Prediction  |   |
-| 14 | Bone Fracture Detection from X-Ray images | 960122680032, 960122680083, 960122680119 |
-| 15 | Text Classification | 950122680005, 9612268105 |
-| 16 | Traffic Flow Estimation |   |
-| 17 | Bitcoin Price Prediction |   |
-| 18 | COVID-19 Spread Prediction | 960122680010, 960122680006 |
+| 12 | Bone Fracture Detection from X-Ray images | 960122680032, 960122680083, 960122680119 |
+| 13 | Text Classification | 950122680005, 9612268105 |
+| 14 | Traffic Flow Estimation |   |
+| 15 | Bitcoin Price Prediction |   |
 
