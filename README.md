@@ -34,6 +34,5 @@ Below is the list of projects defined for the students.
 | 11 | Movie Recommender System | 960122680042, 960122680013 |
 | 12 | Bone Fracture Detection from X-Ray images | 960122680032, 960122680083, 960122680119 |
 | 13 | Text Classification | 950122680005, 9612268105 |
-| 14 | Traffic Flow Estimation |   |
-| 15 | Bitcoin Price Prediction |   |
-
+| 14 | Bitcoin Price Prediction | 950122680081 |
+| 15 | Traffic Flow Estimation |   |
