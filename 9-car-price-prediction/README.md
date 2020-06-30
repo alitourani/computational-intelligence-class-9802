@@ -6,12 +6,12 @@
 - Mohammad Yousefi (960122680043)
 
 ## Library:
-numpy
-pandas
-matplotlib
-seaborn
-tensorflow
-keras
+- numpy 
+- pandas
+- matplotlib
+- seaborn
+- tensorflow
+- keras
 
 ## Descreption:
 Overview
