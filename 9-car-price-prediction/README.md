@@ -19,3 +19,7 @@ We are about to build an Artificial Neural Network which can predict the price o
 First of all, the dataset we have, has to be cleansed (removing unrelated information or NaN values or filling the NaN values, etc...) and needs some data preprocessing.
  After that, we need to build a model (ANN) and feed a fraction of the dataset, and then we test it with the other fraction to see whether the model can predict the prices with a good precision or not.
 
+## Video:
+For more information, click on this link below and watch the video.
+
+https://drive.google.com/file/d/1g35hIHkYRbM-_bRSaT4on7ONeLWXsbUM/view?usp=sharing
