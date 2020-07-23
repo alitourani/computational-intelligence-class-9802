@@ -15,7 +15,7 @@ The purpose of this project is to predict housing prices using a dataset of hous
 ### - Dataset
 The database in this project was randomly created by the `Make Random House.cpp` file.
 You can use this file to create new datasets for yourself or use the `house-3.csv` datasets.
-In the `Make Random House.cpp` file, neighborhoods a have a higher priority than neighborhoods b and neighborhoods b have a higher priority than neighborhoods c.
+In the `Make Random House.cpp` file, neighborhoods `a` have a higher priority than neighborhoods `b` and neighborhoods `b` have a higher priority than neighborhoods `c`.
 These neighborhoods are stored in arrays a, b, c.
 
 You can also use real datasets. Real datasets need to be checked, Because similar houses may have a big price difference, And this may lead to incorrect network learning.
