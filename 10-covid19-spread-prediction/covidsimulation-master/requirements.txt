@@ -1,0 +1,13 @@
+Cython==0.29.16
+dataclasses; python_version < '3.7'
+ipywidgets
+matplotlib
+numpy
+pandas
+plotly
+pytest
+python-dateutil; python_version < '3.7'
+scipy
+simpy
+smart_open
+tqdm
