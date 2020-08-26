@@ -3,7 +3,7 @@ This repository contains the final projects of the course **Computational Intell
 
 ### Administrative
 - **Instructor:** Ali Tourani ([webpage](http://alitourani.ir/downloadable-files/ "webpage") for slides and videos)
-- **TA:** [Reza Khan Mohammadi](https://github.com/Ledengary "Reza Khan Mohammadi")
+- **TA:** [Reza Khan Mohammadi](https://ledengary.github.io/ "Reza Khan Mohammadi")
 - **Credits:** 3
 - **Time**: Sundays, 15:30 – 17:00, 17:15 – 18:30
 - **Location**: Faculty of Engineering, class #15
