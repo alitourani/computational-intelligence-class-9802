@@ -1,25 +1,27 @@
-# Computational Intelligence 9802
-This repository contains the final projects of the course **Computational Intelligence** lectured at the university of Guilan in Spring 2019-2020. *This page is still being updated*. Note that due to the spread of the coronavirus (COVID-19), classes are held online through [this](https://ecent.guilan.ac.ir/ "this") link. This course presents an introduction to the concepts and algorithms of Computational Intelligence. Topics covered include: soft computing, Artificial Neural Networks (ANNs), Fuzzy logic, evolutionary computing, and swarm intelligence. We will study the structure of famous CI methods, such as ant colony, genetic algorithm, perceptron network, and deep learning.
+# Computational Intelligence 9802 (Spring 2020)
 
-### Administrative
-- **Instructor:** Ali Tourani ([webpage](http://alitourani.ir/downloadable-files/ "webpage") for slides and videos)
-- **TA:** [Reza Khan Mohammadi](https://ledengary.github.io/ "Reza Khan Mohammadi")
-- **Credits:** 3
-- **Time**: Mondays, 15:30 – 17:00, 17:15 – 18:30
-- **Location**: Faculty of Engineering, class #15
+This page contains the course materials and final projects, developed at the **University of Guilan** for **Computational Intelligence** course (code 12262111) in **Spring 2020** semester. The course presents an introduction to the methods and algorithms of Computational Intelligence, and focuses on the functional concepts and applicable approaches. The topics covered in this course include Soft Computing, Artificial Neural Networks (ANNs), Fuzzy logic, Evolutionary Computation, and Swarm Intelligence. It also discusses the structures of well-known CI methods, such as Ant Colony, Genetic Algorithm, Perceptron Network, and Deep Learning.
 
-### Course Contents
+## 📚 Course Contents
+
 - Introduction to Computational Intelligence and Soft Computing
 - Artificial Neural Networks
 - Cluster Analysis
 - Fuzzy Logic and Calculations
 - Evolutionary Computation
-Note: get access to the presentation slides through this link.
 
-### Project Titles
-Below is the list of projects defined for the students.
+## 👨‍🏫 Administrative
 
-|  Group No. | Project Title  | Team Members  |
+- **Instructor:** [Ali Tourani](http://alitourani.ir/downloadable-files/ "Ali Tourani")
+- **TAs:**
+	- [Reza Khan Mohammadi](https://ledengary.github.io/ "Reza Khan Mohammadi")
+- **Credits:** 3
+- **Time**: Mondays, 15:30 – 17:00, 17:15 – 18:30
+- **Location**: This semester, classes are held online due to the spread of COVID-19. E-Contents and videos are being continuously shared and updated on the [University of Guilan E-Learning website](https://ecent2.guilan.ac.ir/ "University of Guilan's E-Learning website"). Online (live) classes are held **every Mondays**.
+
+## 🔨 Project Titles
+
+| # | Project title | Member(s) |
 | ------------ | ------------ | ------------ |
 | 1 | Vehicle Type Classification | 960122680018, 960122681002, 960122680005 |
 | 2 | Gender Detection  | 960122680030, 960122680021, 960122681007 |
